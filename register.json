@@ -6,4 +6,11 @@
     "PostID": "post1",
     "mdFile": "post1/README.md"
   }
+  "post2": {
+    "title": "Post 2",
+    "Authors": ["Author 1", "Author 2"],
+    "date": 1670587618,
+    "PostID": "post2",
+    "mdFile": "post2/README.md"
+  }
 }
