@@ -1,0 +1,9 @@
+{
+  "post1": {
+    "title": "Post 1",
+    "Authors": ["Author 1"],
+    "date": 1670587618,
+    "PostID": "post1",
+    "mdFile": "post1/README.md"
+  }
+}
