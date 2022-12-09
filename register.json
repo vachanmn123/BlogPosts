@@ -1,23 +1,9 @@
 {
-  "post1": {
-    "title": "Post 1",
-    "Authors": ["Author 1"],
-    "date": 1670587618,
-    "PostID": "post1",
-    "mdFile": "post1/README.md"
-  },
-  "post2": {
-    "title": "Post 2",
-    "Authors": ["Author 1", "Author 2"],
-    "date": 1670587618,
-    "PostID": "post2",
-    "mdFile": "post2/README.md"
-  },
-  "post3": {
+  "family-of-black-holes": {
   	"title": "Family of black holes",
   	"Authors": ["Aakriti Mishra"],
   	"date": 1670587618,
-  	"PostID": "post3",
-  	"mdFile": "post3/README.md"
+  	"PostID": "family-of-black-holes",
+  	"mdFile": "family-of-black-holes/README.md"
   }
 }
