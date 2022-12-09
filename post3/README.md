@@ -11,7 +11,7 @@ Till date we've discovered 5 types of black holes two of which are hypothetical 
 
 Types of black holes 1.Primordial black holes:
 
-![](Aspose.Words.35f1bd6a-ba71-4a30-8729-88034d188033.001.jpeg)
+![](https://vachanmn.is-a.dev/BlogPosts/post3/Aspose.Words.35f1bd6a-ba71-4a30-8729-88034d188033.001.jpeg)
 
 An illustration of a primordial black hole
 
@@ -41,7 +41,7 @@ edge as the 9th planet way beyond Neptune.
 
 2.Stellar mass black hole:
 
-![](Aspose.Words.35f1bd6a-ba71-4a30-8729-88034d188033.002.jpeg)
+![](https://vachanmn.is-a.dev/BlogPosts/post3/Aspose.Words.35f1bd6a-ba71-4a30-8729-88034d188033.002.jpeg)
 
 Stellar mass black hole     Credits: Hubble space telescope
 
@@ -69,7 +69,7 @@ Unlike primordial black holes these aren't hypothetical and have been observed b
 
 \3. Supermassive black holes
 
-![](Aspose.Words.35f1bd6a-ba71-4a30-8729-88034d188033.003.png)
+![](https://vachanmn.is-a.dev/BlogPosts/post3/Aspose.Words.35f1bd6a-ba71-4a30-8729-88034d188033.003.png)
 
 This is the first direct image of a supermassive black hole located at the galactic core of [Messier 87](https://en.wikipedia.org/wiki/Messier_87).
 
@@ -101,7 +101,7 @@ The James Webb space telescope might help us understand the formation of super m
 
 4.Quasars:
 
-![](Aspose.Words.35f1bd6a-ba71-4a30-8729-88034d188033.004.jpeg)
+![](https://vachanmn.is-a.dev/BlogPosts/post3/Aspose.Words.35f1bd6a-ba71-4a30-8729-88034d188033.004.jpeg)
 
 Quasar captured by hubble
 
@@ -119,7 +119,7 @@ Hence its name quasi stellar objects which means almost star like objects.
 
 In a way they're just incredibly greedy black holes. 5.Intermediate mass black hole
 
-![](Aspose.Words.35f1bd6a-ba71-4a30-8729-88034d188033.005.jpeg)
+![](https://vachanmn.is-a.dev/BlogPosts/post3/Aspose.Words.35f1bd6a-ba71-4a30-8729-88034d188033.005.jpeg)
 
 Dwarf galaxy
 
