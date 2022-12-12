@@ -1,3 +1,3 @@
 # BlogPosts
 
-This repository is used to host all the blog posts used by my [blog app](vachanmn.is-a.dev/blog).
+This repository is used to host all the blog posts used by my [blog app](https://vachanmn.is-a.dev/blog).

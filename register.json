@@ -2,8 +2,10 @@
   "family-of-black-holes": {
   	"title": "Family of black holes",
   	"Authors": ["Aakriti Mishra"],
-  	"date": 1670587618,
+  	"date": 1640197808000,
   	"PostID": "family-of-black-holes",
-  	"mdFile": "family-of-black-holes/README.md"
+  	"mdFile": "family-of-black-holes/README.md",
+    "displayImage": "family-of-black-holes/feature.png",
+    "snippet": "A black hole is a region of space so dense that gravity is so strong that we would have to travel faster than the speed of light to escape the pull of gravity after a point. That point is known as the event horizon or point of no return. What's inside a black hole is still not known to us but there have been innumerable hypotheses. Till date we've discovered 5 types of black holes two of which are hypothetical and 3 have been observed using telescopes..."
   }
 }
