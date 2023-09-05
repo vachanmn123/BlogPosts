@@ -25,5 +25,14 @@
   	"mdFile": "functionC/README.md",
   	"displayImage": "test-blog-article-1/feature.jpg",
   	"snippet": "A Few important questions for Functions in C."
+  },
+  "stringPointersC": {
+  	"title": "Strings and Pointers in C - Frequently asked questions",
+  	"Authors": ["Vachan MN"],
+  	"date": 1693920179386,
+  	"postID": "stringPointersC",
+  	"mdFile": "stringPointersC/README.md",
+  	"displayImage": "test-blog-article-1/feature.jpg",
+  	"snippet": "A Few important questions for Strings and Pointers in C."
   }
 }
