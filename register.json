@@ -34,5 +34,14 @@
   	"mdFile": "stringPointersC/README.md",
   	"displayImage": "test-blog-article-1/feature.jpg",
   	"snippet": "A Few important questions for Strings and Pointers in C."
+  },
+  "StructureUnionsEnum": {
+  	"title": "Structures, Unions and Enumerated Types in C - Frequently asked questions",
+  	"Authors": ["Vachan MN"],
+  	"date": 1693920179386,
+  	"postID": "StructureUnionsEnum",
+  	"mdFile": "StructureUnionsEnum/README.md",
+  	"displayImage": "test-blog-article-1/feature.jpg",
+  	"snippet": "A Few important questions for Structures, Unions and Enumerated types in C."
   }
 }
